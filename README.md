@@ -82,7 +82,7 @@
 ![快钱键盘截图](https://raw.githubusercontent.com/JolieYang/Picture/master/QB.png)
     
 
-###三.核心API文档
+###三.核心API
 ####NLInputConnection.h 
 
 扩展UIView,将UIView模拟成文本输入框。
